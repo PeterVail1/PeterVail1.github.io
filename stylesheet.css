@@ -13,5 +13,7 @@ p {
 }
 #text {
   text-align: center;
-  color: purple;
+}
+a:hover {
+  color: orange;
 }
